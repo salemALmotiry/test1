@@ -18,11 +18,6 @@
 - **Automated Documentation**  
   Tools for creating and managing customs documents automatically, reducing errors and saving time.
 
-- **Secure Payment Processing**  
-  A secure payment system with multiple payment options to meet client needs.
-
-- **Customer Support**  
-  Dedicated support for inquiries or issues during the clearance process.
 
 - **Analytics and Reporting**  
   Comprehensive tools for insights and reports on shipment operations to improve performance.
