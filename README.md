@@ -1,83 +1,114 @@
-# Bayan Customs Clearance Platform
+# Bayan System
 
 **Bayan** is a specialized platform aimed at facilitating customs clearance processes by connecting clients, whether individuals or companies, with reliable customs brokers. **Bayan** provides an advanced shipment management system, supported by innovative tools designed to save time and effort, offering a secure and easy customs experience infused with trust.
+
+---
+
+## 🛠 Key Features
+
+- **Connecting Customs Brokers**  
+  Easily connect with accredited and reliable customs brokers to receive professional clearance services.
+
+- **Advanced Shipment Management**  
+  An integrated system for managing shipments, including tracking, document organization, and process optimization.
+
+- **Real-Time Tracking**  
+  Monitor shipment statuses instantly with full transparency.
+
+- **Automated Documentation**  
+  Tools for creating and managing customs documents automatically, reducing errors and saving time.
+
+- **Secure Payment Processing**  
+  A secure payment system with multiple payment options to meet client needs.
+
+- **Customer Support**  
+  Dedicated support for inquiries or issues during the clearance process.
+
+- **Analytics and Reporting**  
+  Comprehensive tools for insights and reports on shipment operations to improve performance.
+
+---
+
+## 🌍 منصة بيان
 
 **بيان** هي منصة متخصصة تهدف إلى تسهيل عمليات التخليص الجمركي من خلال ربط العملاء، سواء كانوا أفرادًا أو شركات، بالمخلصين الجمركيين الموثوقين. توفر **بيان** نظامًا متطورًا لإدارة الشحنات، مدعومًا بأدوات مبتكرة تُعنى بتوفير الوقت والجهد، لتقديم تجربة جمركية آمنة وسهلة يتخللها الثقة.
 
 ---
 
-## Key Features | الميزات الرئيسية
+### ⭐️ الميزات الرئيسية
 
-1. **Connecting Customs Brokers | ربط المخلصين الجمركيين**:
-   - **Bayan** allows clients to easily connect with accredited and reliable customs brokers, ensuring they receive efficient and professional clearance services.
-   - **بيان** تتيح للعملاء الاتصال بسهولة مع مخلصين جمركيين معتمدين وموثوقين، مما يضمن حصولهم على خدمات تخليص فعّالة ومهنية.
+- **ربط المخلصين الجمركيين**  
+  الاتصال بمخلصين جمركيين معتمدين وموثوقين للحصول على خدمات تخليص احترافية.
 
-2. **Advanced Shipment Management | إدارة الشحنات المتقدمة**:
-   - An integrated system for managing shipments, including tracking, document organization, and optimizing clearance processes to ensure speed and high efficiency.
-   - نظام متكامل لإدارة الشحنات يشمل تتبع الشحنات، تنظيم المستندات، وتحسين عمليات التخليص لضمان سرعة وكفاءة عالية.
+- **إدارة الشحنات المتقدمة**  
+  نظام شامل لإدارة الشحنات يتضمن التتبع وتنظيم الوثائق وتحسين العمليات.
 
-3. **Real-Time Tracking | التتبع في الوقت الحقيقي**:
-   - Monitor the status of shipments instantly, providing full transparency to clients and allowing them to stay updated on their shipments at any time.
-   - متابعة حالة الشحنات بشكل فوري، مما يوفر شفافية كاملة للعملاء ويتيح لهم معرفة آخر تحديثات شحناتهم في أي وقت.
+- **التتبع في الوقت الحقيقي**  
+  متابعة حالة الشحنات بشفافية كاملة.
 
-4. **Automated Documentation | توثيق آلي**:
-   - Automated tools for creating and managing necessary customs documents, reducing errors and saving time in the clearance processes.
-   - أدوات آلية لإنشاء وإدارة المستندات الجمركية الضرورية، مما يقلل من الأخطاء ويوفر الوقت في عمليات التخليص.
+- **توثيق آلي**  
+  أدوات آلية لتوثيق المستندات الجمركية، تقلل الأخطاء وتوفر الوقت.
 
-5. **Secure Payment Processing | معالجة مدفوعات آمنة**:
-   - A comprehensive and secure payment system that ensures financial transactions are conducted smoothly and safely, offering multiple payment options to suit clients' needs.
-   - نظام دفع متكامل وآمن يضمن إجراء المعاملات المالية بيسر وأمان، مع توفير خيارات دفع متعددة لتناسب احتياجات العملاء.
+- **معالجة مدفوعات آمنة**  
+  نظام دفع آمن بخيارات متعددة لتلبية احتياجات العملاء.
 
-6. **Customer Support | دعم العملاء**:
-   - A dedicated support team to assist clients with any inquiries or issues they may encounter during the customs clearance process, ensuring a smooth and comfortable experience.
-   - فريق دعم مخصص لمساعدة العملاء في أي استفسارات أو مشكلات قد تواجههم خلال عملية التخليص الجمركي، لضمان تجربة سلسة ومريحة.
+- **دعم العملاء**  
+  فريق دعم مخصص لتقديم المساعدة في الاستفسارات أو المشاكل.
 
-7. **Analytics and Reporting | تحليلات وتقارير**:
-   - Comprehensive analytical tools and reports that provide clients with valuable insights into their shipment and clearance operations, helping improve performance and make informed decisions.
-   - أدوات تحليلية وتقارير شاملة تمنح العملاء رؤى قيمة حول عمليات شحناتهم وتخليصهم، مما يساعد في تحسين الأداء واتخاذ قرارات مدروسة.
+- **تحليلات وتقارير**  
+  أدوات شاملة للحصول على رؤى قيمة وتحسين الأداء.
 
 ---
 
-## Important Links | روابط مهمة
+## 🔗 Links and Resources
 
-- [Figma Design](#)
-- [Presentation](#)
-- [PostMan API](#)
-- [Diagrams](#)
-  - **Part 1 | الجزء الأول**
-  - **Part 2 | الجزء الثاني**
-
----
-
-## My Work on the Project | عملي في المشروع
-
-As part of developing the **Bayan** platform, I have implemented the following:
-
-في إطار تطوير منصة **بيان**، قمت بتنفيذ ما يلي:
-
-- **CRUD Operations** for essential models such as shipments, customs brokers, clients, and transactions.
-  - إنشاء وإدارة CRUD للنماذج الأساسية مثل الشحنات، المخلصين، العملاء، والمعاملات.
-
-- **Additional Functionalities** including:
-  - `getShipmentsByStatus(EXTRA)` | `getShipmentsByStatus(EXTRA)`
-  - `getCustomsBrokersByLocation(EXTRA)` | `getCustomsBrokersByLocation(EXTRA)`
-  - `getShipmentsByClientType(EXTRA)` | `getShipmentsByClientType(EXTRA)`
-  - `getPaymentsByMethod(EXTRA)` | `getPaymentsByMethod(EXTRA)`
-  - `getShipmentDetailsById(EXTRA)` | `getShipmentDetailsById(EXTRA)`
-  - `updateShipmentStatus(EXTRA)` | `updateShipmentStatus(EXTRA)`
-  - `generateCustomsDocumentation(EXTRA)` | `generateCustomsDocumentation(EXTRA)`
-  - `securePaymentProcessing(EXTRA)` | `securePaymentProcessing(EXTRA)`
-  - `customerSupportTickets(EXTRA)` | `customerSupportTickets(EXTRA)`
-  - `shipmentAnalytics(EXTRA)` | `shipmentAnalytics(EXTRA)`
-
-- **API Development** for managing and tracking shipments.
-  - إعداد واجهات برمجة التطبيقات (APIs) لاستخدامها في إدارة الشحنات وتتبعها.
-
-- **Testing** of controllers and services to ensure the system operates efficiently and without errors.
-  - اختبار وحدات التحكم والخدمات لضمان عمل النظام بكفاءة وبدون أخطاء.
+- [Figma Design](#)  
+- [Presentation](#)  
+- [Postman API](#)  
+- [Diagrams Part 1](#)  
+- [Diagrams Part 2](#)
 
 ---
 
-With these modifications, the document now aligns with the **Bayan** platform specialized in facilitating customs clearance processes, while maintaining the original structure and adapting it to meet the needs of the new system.
+## 👩‍💻 My Work on the Project
 
-بهذا التعديل، أصبحت الوثيقة تناسب منصة **بيان** المتخصصة في تسهيل عمليات التخليص الجمركي، مع الحفاظ على الهيكلية الأصلية للمحتوى وتكييفها لتلبية احتياجات النظام الجديد.
+As part of developing the **Bayan** platform, I implemented the following:
+
+### 🚀 Features Developed
+
+1. **CRUD Operations**  
+   - Shipments  
+   - Customs Brokers  
+   - Clients  
+   - Transactions  
+
+2. **Extra Functionalities**  
+   - `getShipmentsByStatus(EXTRA)`  
+   - `getCustomsBrokersByLocation(EXTRA)`  
+   - `getShipmentsByClientType(EXTRA)`  
+   - `getPaymentsByMethod(EXTRA)`  
+   - `getShipmentDetailsById(EXTRA)`  
+   - `updateShipmentStatus(EXTRA)`  
+   - `generateCustomsDocumentation(EXTRA)`  
+   - `securePaymentProcessing(EXTRA)`  
+   - `customerSupportTickets(EXTRA)`  
+   - `shipmentAnalytics(EXTRA)`  
+
+3. **API Development**  
+   Designed and implemented APIs for shipment tracking and management.
+
+4. **Testing**  
+   Conducted comprehensive testing of controllers and services to ensure system reliability.
+
+---
+
+## 📂 Tags
+
+- **#CustomsClearance**  
+- **#ShipmentManagement**  
+- **#RealTimeTracking**  
+- **#SecurePayments**  
+- **#CustomerSupport**  
+- **#Analytics**  
+- **#API**  
+- **#Testing**
